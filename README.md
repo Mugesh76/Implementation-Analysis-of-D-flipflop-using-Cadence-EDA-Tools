@@ -10,7 +10,8 @@ Tools Required:
 
 Circuit Diagram:
 
-![WhatsApp Image 2024-11-13 at 4 26 07 PM (1)](https://github.com/user-attachments/assets/d31a5095-93cc-4895-bad8-f0fa14cf009c)
+![IMG-20241113-WA0029](https://github.com/user-attachments/assets/e69ea0a3-e55c-4093-b54a-e4febb34f69f)
+)
 
 
 
